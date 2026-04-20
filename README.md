@@ -14,7 +14,7 @@
 
 ## 🌐 Live Demo
 
-🚀 **[Live link coming soon — deploying to Vercel]**
+🚀 https://cabbit-idc30szli-arjuns-projects-8333951a.vercel.app/
 
 ---
 
