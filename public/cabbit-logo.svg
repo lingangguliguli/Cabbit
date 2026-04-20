@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <rect width="120" height="120" rx="24" fill="#1a1a2e"/>
+  <circle cx="60" cy="52" r="32" fill="#00d4aa" opacity="0.15"/>
+  <!-- Rabbit ears -->
+  <ellipse cx="48" cy="28" rx="8" ry="18" fill="#00d4aa" transform="rotate(-10 48 28)"/>
+  <ellipse cx="72" cy="28" rx="8" ry="18" fill="#00d4aa" transform="rotate(10 72 28)"/>
+  <ellipse cx="48" cy="26" rx="4" ry="12" fill="#1a1a2e" transform="rotate(-10 48 26)"/>
+  <ellipse cx="72" cy="26" rx="4" ry="12" fill="#1a1a2e" transform="rotate(10 72 26)"/>
+  <!-- Head -->
+  <circle cx="60" cy="56" r="22" fill="#00d4aa"/>
+  <!-- Eyes -->
+  <circle cx="52" cy="52" r="3.5" fill="#1a1a2e"/>
+  <circle cx="68" cy="52" r="3.5" fill="#1a1a2e"/>
+  <circle cx="53" cy="51" r="1.2" fill="white"/>
+  <circle cx="69" cy="51" r="1.2" fill="white"/>
+  <!-- Nose -->
+  <ellipse cx="60" cy="59" rx="2.5" ry="2" fill="#ff6b35"/>
+  <!-- Mouth -->
+  <path d="M56 63 Q60 67 64 63" stroke="#1a1a2e" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Whiskers -->
+  <line x1="38" y1="56" x2="48" y2="58" stroke="#1a1a2e" stroke-width="1" stroke-linecap="round"/>
+  <line x1="38" y1="60" x2="48" y2="60" stroke="#1a1a2e" stroke-width="1" stroke-linecap="round"/>
+  <line x1="72" y1="58" x2="82" y2="56" stroke="#1a1a2e" stroke-width="1" stroke-linecap="round"/>
+  <line x1="72" y1="60" x2="82" y2="60" stroke="#1a1a2e" stroke-width="1" stroke-linecap="round"/>
+  <!-- Cab roof sign -->
+  <rect x="44" y="80" rx="6" width="32" height="16" fill="#00d4aa"/>
+  <text x="60" y="92" text-anchor="middle" font-family="Inter, sans-serif" font-weight="700" font-size="9" fill="#1a1a2e">CAB</text>
+  <!-- Wheels -->
+  <circle cx="48" cy="100" r="4" fill="#00d4aa"/>
+  <circle cx="72" cy="100" r="4" fill="#00d4aa"/>
+  <circle cx="48" cy="100" r="1.5" fill="#1a1a2e"/>
+  <circle cx="72" cy="100" r="1.5" fill="#1a1a2e"/>
+</svg>
